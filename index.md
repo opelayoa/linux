@@ -8,6 +8,19 @@ Las distribuciones de Linux son versiones que comparten Kernel, pero con funcion
 
 Se pueden ver las diferentes distribuciones [DistroWatch.com](https://distrowatch.com/).
 
+## Kernel
+
+El kernel es el nucleo de Linux, es decir es Linux en si, cualquier cosa que acompañe al Kernel, es parte de la distribución.
+
+Las versiones del Kernel, se escriben de la siguiente forma:
+
+AA.BB.CC.DD
+
+AA. Versión del Kernel
+BB. Revisión actual del Kernel
+CC. Revisiones menores del Kernel
+DD. Actualizaciones y corrección de fallos en el Kernel
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
