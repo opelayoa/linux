@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+# Introducción a Linux
 
-You can use the [editor on GitHub](https://github.com/opelayoa/linux/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Linux proviene de Unix, esto es de se basaron.
+
+Posteriormente en un proyecto estudiantil, desarrollado por Linus Tarvald (Linus + Unix -> Linux) es como nacio Linux en 1991.
+
+Las distribuciones de Linux son versiones que comparten Kernel, pero con funcionalidades especificas desarrolladas por distrintos fabricantes, para tener funcionalidades especificas.
+
+Se pueden ver las diferentes distribuciones [DistroWatch.com](https://distrowatch.com/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
